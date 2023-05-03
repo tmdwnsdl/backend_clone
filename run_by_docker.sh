@@ -1,0 +1,1 @@
+docker run --privileged -itd --name updated_toy -p 8080:8080 my_toy_image:latest /bin
