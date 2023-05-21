@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971349095203",
+    "project_id": "mobileprogramming-fb302",
+    "storage_bucket": "mobileprogramming-fb302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971349095203:android:4fd85793250c3ecb1ad296",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971349095203-ftdedc10ohhu500ogqnjh833or9nha23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoSug8gjIKqYirQqh5s0P2BeQKjxnbo_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971349095203-ftdedc10ohhu500ogqnjh833or9nha23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
